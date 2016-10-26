@@ -2,26 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ba5f82-ece8-4ccd-ac6e-9babec7d868e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch02/Ex01.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch02/Ex02.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch02/Ex03.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch02/Ex04.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch02/Ex05.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise_3_12.sc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise_3_13.sc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise_3_14.sc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise_3_15.sc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise_3_16.sc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise_3_25.sc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise_4_1.sc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise_4_2.sc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise_5.sc" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_2_1.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_2_2.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_2_3.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_2_4.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_2_5.sc" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex01.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex02.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex03.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex04.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex05.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex06.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex07.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex08.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex09.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex10.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03/Ex11.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_3_1.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_3_2.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_3_3.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_3_4.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_3_5.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_3_6.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_3_7.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_3_8.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/exercise_3_9.sc" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="functional-programming-in-scala.iws" />
@@ -44,27 +44,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ex04.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch02/Ex04.scala">
+      <file leaf-file-name="Ex09.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch03/Ex09.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="91">
+              <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ex05.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch02/Ex05.scala">
+      <file leaf-file-name="Ex10.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch03/Ex10.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="1173">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ex11.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch03/Ex11.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise_3_10.sc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exercise_3_10.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1453">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,6 +129,17 @@
         <option value="$PROJECT_DIR$/src/ch02/Ex03.scala" />
         <option value="$PROJECT_DIR$/src/ch02/Ex04.scala" />
         <option value="$PROJECT_DIR$/src/ch02/Ex05.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex01.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex02.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex03.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex04.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex05.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex06.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex08.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex07.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex09.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex10.scala" />
+        <option value="$PROJECT_DIR$/src/ch03/Ex11.scala" />
       </list>
     </option>
   </component>
@@ -148,8 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -197,12 +233,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch02" />
+              <option name="myItemId" value="ch03" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,17 +250,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scala-for-the-impatient" />
+    <property name="last_opened_file_path" value="$USER_HOME$/zalando/zeus/fleek-apigw/auth" />
   </component>
-  <component name="RunManager" selected="Application.Ex02">
-    <configuration default="false" name="Ex1" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Ex11">
+    <configuration default="false" name="Ex02" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ch02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ch02.Ex01" />
+      <option name="MAIN_CLASS_NAME" value="ch02.Ex02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -235,14 +273,74 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Ex02" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Ex01" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ch02.*" />
+          <option name="PATTERN" value="ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ch02.Ex02" />
+      <option name="MAIN_CLASS_NAME" value="ch03.Ex01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="functional-programming-in-scala" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Ex07" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch03.Ex07" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="functional-programming-in-scala" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Ex08" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch03.Ex08" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="functional-programming-in-scala" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Ex11" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch03.Ex11" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -940,14 +1038,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.Ex1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Ex02" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Ex02" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Ex01" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Ex07" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Ex08" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Ex11" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Ex02" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Ex1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Ex11" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Ex08" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Ex07" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Ex01" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Ex02" />
       </list>
     </recent_temporary>
   </component>
@@ -1002,12 +1106,16 @@
       <workItem from="1463992112696" duration="593000" />
       <workItem from="1464884283878" duration="607000" />
       <workItem from="1472501139884" duration="1462000" />
-      <workItem from="1477229529923" duration="3771000" />
+      <workItem from="1477229529923" duration="6361000" />
+      <workItem from="1477298435701" duration="6454000" />
+      <workItem from="1477385573164" duration="2570000" />
+      <workItem from="1477393985385" duration="2325000" />
+      <workItem from="1477519376364" duration="594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44857000" />
+    <option name="totallyTimeSpent" value="59390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -1015,17 +1123,17 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26717559" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19063005" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1898223" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1085,139 +1193,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_16.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_1.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_2.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_7.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_3.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_5.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_2.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_13.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_14.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="123" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_15.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2329">
-          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_16.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_1.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_2.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_7.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_3.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_5.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_2.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_13.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_14.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="123" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercise_3_15.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1232,48 +1207,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_1.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_2.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_7.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_3.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_5.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_2.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_2_1.sc" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_2_2.sc" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_7.sc" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_2_3.sc" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_2_5.sc" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_2.sc" />
     <entry file="file://$PROJECT_DIR$/src/exercise_3_11.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1285,13 +1224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="119" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_7.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1320,13 +1252,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_3_2.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1362,23 +1287,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_1.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_2_1.sc" />
     <entry file="file://$PROJECT_DIR$/src/ch02/Ex01.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1394,55 +1310,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_2.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="26" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_3.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_2_2.sc" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_2_3.sc" />
     <entry file="file://$PROJECT_DIR$/src/ch02/Ex03.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_4.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_2_4.sc" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_2_5.sc" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_1.sc" />
     <entry file="file://$PROJECT_DIR$/src/ch02/Ex04.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise_2_5.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1450,6 +1336,102 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_2.sc" />
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_3.sc" />
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="10" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_4.sc" />
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_5.sc" />
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex05.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_6.sc" />
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex06.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_7.sc" />
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex07.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex08.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="52" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_9.sc" />
+    <entry file="file://$PROJECT_DIR$/src/exercise_3_10.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1453">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex10.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex11.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/Ex09.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
           <folding />
         </state>
       </provider>
